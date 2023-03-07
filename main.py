@@ -3,7 +3,7 @@ import pandas as pd
 
 
 file_blood = "blood_data.csv"
-file_glucose = "../../Documents/GitHub/MyBloodandGlucose/glucose.csv"
+file_glucose = "glucose.csv"
 
 
 def glucose_display(frame):
