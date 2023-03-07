@@ -1,4 +1,4 @@
-Date,count,fasting,episode,intensity
+Date,Count,Fasting,Episode,Intensity
 2023-02-22 20:57,114,False,True,Mid
 2023-02-23 07:57,109,True,False,None
 2023-02-23 19:15,99,False,False,None
